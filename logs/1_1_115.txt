@@ -1,0 +1,14 @@
+Mon Feb 09 15:25:57 EST 2015|The initial account container is null
+Mon Feb 09 15:25:57 EST 2015|null
+Mon Feb 09 15:27:20 EST 2015|The initial account container is null
+Mon Feb 09 15:27:20 EST 2015|null
+Mon Feb 09 15:28:42 EST 2015|The initial account container is null
+Mon Feb 09 15:28:42 EST 2015|null
+Mon Feb 09 15:30:25 EST 2015|The initial account container is null
+Mon Feb 09 15:30:25 EST 2015|null
+Mon Feb 09 15:32:18 EST 2015|The initial account container is null
+Mon Feb 09 15:32:18 EST 2015|null
+Mon Feb 09 19:47:22 EST 2015|null
+Mon Feb 09 19:47:22 EST 2015|SELECT * FROM customer WHERE loginName = 'nmarcus'AND pin = 8125
+Mon Feb 09 20:33:32 EST 2015|null
+Mon Feb 09 20:33:32 EST 2015|SELECT * FROM transaction WHERE accountID = '690bf64c-5d42-11e3-94ef-97beef767f1d'

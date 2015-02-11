@@ -1,0 +1,25 @@
+Tue Feb 03 18:34:35 EST 2015|Could not parse the password. Incorrect input
+Tue Feb 03 18:34:35 EST 2015|For input string: "pppp"
+Tue Feb 03 18:36:02 EST 2015|Could not parse the password. Incorrect input
+Tue Feb 03 18:36:02 EST 2015|For input string: "ppp"
+Tue Feb 03 18:38:40 EST 2015|errorDescription
+Tue Feb 03 18:39:26 EST 2015|errorDescription
+Tue Feb 03 18:40:43 EST 2015|errorDescription
+Tue Feb 10 17:56:55 EST 2015|null
+Tue Feb 10 17:56:55 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Tue Feb 10 17:57:52 EST 2015|null
+Tue Feb 10 17:57:53 EST 2015|SELECT * FROM account WHERE accountID = 'f9b7cf4a-5d42-11e3-94ef-97beef767f1d'
+Tue Feb 10 18:00:26 EST 2015|null
+Tue Feb 10 18:00:26 EST 2015|SELECT * FROM customer WHERE customerID = '81c55fd6-5d40-11e3-94ef-97beef767f1d'
+Tue Feb 10 18:04:20 EST 2015|null
+Tue Feb 10 18:04:20 EST 2015|SELECT * FROM customer WHERE loginName = 'nmarcus'AND pin = 8125
+Tue Feb 10 18:12:25 EST 2015|null
+Tue Feb 10 18:12:25 EST 2015|SELECT * FROM customer WHERE loginName = 'nmarcus'AND pin = 8125
+Tue Feb 10 18:23:04 EST 2015|null
+Tue Feb 10 18:23:04 EST 2015|SELECT * FROM account WHERE accountID = '537b0458-5d42-11e3-94ef-97beef767f1d'
+Tue Feb 10 19:29:34 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'userOrGroupID = '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Tue Feb 10 19:29:34 EST 2015|SELECT * FROM user_permissions JOIN groups ON groupID = groupID2WHERE userOrGroupID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Tue Feb 10 19:30:45 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groupOrUserID = '01b9f986-5d41-11e3-94ef-97beef767f1d'' at line 1
+Tue Feb 10 19:30:45 EST 2015|SELECT * FROM user_permissions JOIN groups ON groupID = groupID2WHERE groupOrUserID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Tue Feb 10 19:33:37 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'groupOrUserID = '69a1e316-5d40-11e3-94ef-97beef767f1d'' at line 1
+Tue Feb 10 19:33:37 EST 2015|SELECT * FROM user_permissions JOIN groups ON groupID = groupID2WHERE groupOrUserID = '69a1e316-5d40-11e3-94ef-97beef767f1d';
